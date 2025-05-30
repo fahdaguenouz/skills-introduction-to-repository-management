@@ -1,4 +1,4 @@
-# Introduction to Repository Management
+# Introduction to Repository Management 
 
 _Learn the basics of several GitHub features that can help support a collaborative, friendly, and healthy project._
 
